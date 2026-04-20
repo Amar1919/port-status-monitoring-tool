@@ -1,4 +1,4 @@
-<img width="812" height="193" alt="Screenshot from 2026-04-18 12-19-47" src="https://github.com/user-attachments/assets/7beef657-289a-451a-a85d-35fad1dd3adc" /># port-status-monitoring-tool
+
 #  Port Status Monitoring Tool using SDN
 
 ##Project Overview
